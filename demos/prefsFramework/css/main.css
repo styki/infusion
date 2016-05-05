@@ -717,8 +717,10 @@ h3 a:visited
     }
 
 body {
+    display: inline-block;
     margin: 0px;
     padding:0px;
+    min-width: 100%;
     /*background-color: white;*/
     background:url(../images/bg.gif);
     font-family:Arial, Helvetica, sans-serif;
